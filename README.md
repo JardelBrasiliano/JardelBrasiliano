@@ -2,7 +2,7 @@
 <ul align="left">
   <div>
     <h2 align="left">Jardel Brasiliano</h3>
-    <h3 align="left">Front-end developer at Insight Data Science Lab</h3>
+    <h4 align="left">Front-end developer at Insight Data Science Lab</h4>
   </div>
 
   ---
