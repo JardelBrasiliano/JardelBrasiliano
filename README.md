@@ -1,8 +1,7 @@
-<img src="https://media.giphy.com/media/kAi2mIkFG4swuhbmmo/giphy.gif" align="right" height="250" widht="250"/>
+<img src="https://media.giphy.com/media/kAi2mIkFG4swuhbmmo/giphy.gif" align="right" height="250"/>
 <ul align="left">
   <div>
-    <h2 align="left">Jardel Brasiliano</h3>
-    <h4 align="left">Front-end developer at Insight Data Science Lab</h4>
+    <h3 align="left">Front-end developer at Insight Data Science Lab</h3>
   </div>
 
   ---
@@ -11,8 +10,9 @@
     <li><a href="https://play.google.com/store/apps/details?id=com.simuladodetranbrasilfree">Simulado Detran Brasil</a>
   </ul>
 
-  ---
+  
 <p align="left"> 
+  <br>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="40"/> 
   </a> 
@@ -33,6 +33,7 @@
   </a> 
 </p>
 
+  ---
   <a href="mailto:jardelbrasiliano@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-jardelbrasiliano@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=jardelbrasiliano@gmail.com" />
   </a>
