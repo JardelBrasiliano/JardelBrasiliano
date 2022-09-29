@@ -33,7 +33,6 @@
   </a> 
 </p>
 
-  ---
   <a href="mailto:jardelbrasiliano@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-jardelbrasiliano@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=jardelbrasiliano@gmail.com" />
   </a>
