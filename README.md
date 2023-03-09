@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/kAi2mIkFG4swuhbmmo/giphy.gif" align="right" height="250"/>
 <ul align="left">
   <div>
-    <h3 align="left">Front-end developer at Insight Data Science Lab</h3>
+    <h3 align="left">Front-end developer at IRIS | Innovation and Data Lab</h3>
   </div>
 
   ---
